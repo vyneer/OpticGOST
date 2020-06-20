@@ -30,4 +30,4 @@ II. Установка макроса для Zemax
 		
 		NB! Если вы переместили папку OpticGOST, макрос надо будет переустановить,
 		так как сгенерированный скриптом файл analysis_export.zpl содержит ссылки на папку
-		OpticGOST/config.
+		OpticGOST/config. 
